@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://cdn-icons-png.flaticon.com/128/805/805370.png",
+    "user": "John",
+    "tweets": 777,
+    "followers": 100500
+  },
+  {
+    "id": 2,
+    "avatar": "  https://cdn-icons-png.flaticon.com/512/2436/2436676.png",
+    "user": "Oleksii",
+    "tweets": 888,
+    "followers": 100600
+  },
+
+  {
+    "id": 3,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3006/3006876.png",
+    "user": "Andrii",
+    "tweets": 999,
+    "followers": 100700
+  },
+  {
+    "id": 4,
+    "avatar": "https://cdn-icons-png.flaticon.com/128/924/924874.png",
+    "user": "Oleg",
+    "tweets": 1099,
+    "followers": 100800
+  },
+  {
+    "id": 5,
+    "avatar": "https://cdn-icons-png.flaticon.com/128/921/921124.png",
+    "user": "Ira",
+    "tweets": 1199,
+    "followers": 100900
+  },
+  {
+    "id": 6,
+    "avatar": "https://cdn-icons-png.flaticon.com/128/4202/4202831.png",
+    "user": "Ivan",
+    "tweets": 1299,
+    "followers": 101000
+  }
+]
