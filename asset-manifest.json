@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Provider_price_calculator/static/css/main.a4a46ca7.css",
+    "main.js": "/Provider_price_calculator/static/js/main.a86473c6.js",
+    "static/media/Montserrat-SemiBold.ttf": "/Provider_price_calculator/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/Provider_price_calculator/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/bunny.svg": "/Provider_price_calculator/static/media/bunny.6c15b555ca51bc0bba5b72cce9039373.svg",
+    "static/media/scaleway.svg": "/Provider_price_calculator/static/media/scaleway.c1f5f34e2610de8ccff85a6739898b9e.svg",
+    "static/media/logo-backblaze-flame-header.webp": "/Provider_price_calculator/static/media/logo-backblaze-flame-header.06161d14d931cd1d43dc.webp",
+    "index.html": "/Provider_price_calculator/index.html",
+    "main.a4a46ca7.css.map": "/Provider_price_calculator/static/css/main.a4a46ca7.css.map",
+    "main.a86473c6.js.map": "/Provider_price_calculator/static/js/main.a86473c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a46ca7.css",
+    "static/js/main.a86473c6.js"
+  ]
+}
