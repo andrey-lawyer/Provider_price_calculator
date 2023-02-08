@@ -1,12 +1,5 @@
 import { Box, Progress, useMediaQuery } from '@chakra-ui/react';
-import {
-  ParagraphBackblaze,
-  SpanBackblaze,
-  Cast,
-  BlockProgress,
-} from './Backblaze.styled';
-import { backblaze } from 'constants/data';
-import { calculator } from '../../services/calculator';
+import { ParagraphBackblaze, SpanBackblaze, Cast } from './Backblaze.styled';
 
 export function BackBlaze({ cost, color }) {
   const [isDesk] = useMediaQuery('(min-width: 720px)');
